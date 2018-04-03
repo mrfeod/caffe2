@@ -29,6 +29,8 @@
 
 #include "caffe2/core/logging.h"
 
+#include "../../third_party/movavi_patch/movavi_open.h"
+
 using ::google::protobuf::Message;
 using ::google::protobuf::MessageLite;
 
